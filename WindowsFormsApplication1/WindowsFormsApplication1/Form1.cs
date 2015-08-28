@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Some Different Text, Again!");
-            MessageBox.Show("Some Different Text, Again!");
+            MessageBox.Show("Some Different Text, not");
             MessageBox.Show("Some Different Text, Again!");
         }
     }
